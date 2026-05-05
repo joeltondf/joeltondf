@@ -1,53 +1,51 @@
 <div align="center">
-  <!-- Banner em SVG estático (Não quebra) -->
-  <img src="https://ui-avatars.com/api/?name=Joelton+Oliveira&background=0077B5&color=fff&size=512&bold=true" width="150" style="border-radius: 50%;" />
-  
-  <h1>Joelton Oliveira</h1>
-  <p align="center">
-    <strong>Desenvolvedor Full Stack | Tech & Inovação</strong><br>
-    <a href="https://joelton.com.br">joelton.com.br</a>
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/joelton-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/joeltondf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:contato@joelton.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+# 👨‍💻 Joelton Oliveira
+**Desenvolvedor Full Stack | UI/UX Enthusiast | Criador de Soluções**
+
+[![Website](https://img.shields.io/badge/Acesse_meu_Site-joelton.com.br-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joelton.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joelton-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelton-oliveira/)
+[![Instagram](https://img.shields.io/badge/Instagram-@joeltondf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeltondf/)
 
 ---
 
 ### 🚀 Sobre Mim
-Eu transformo ideias em soluções digitais de alto impacto. Focado em performance, design e código limpo.
+Transformo conceitos complexos em interfaces simples e funcionais. No meu portal **[joelton.com.br](https://joelton.com.br)**, documento minha jornada e os projetos que desenvolvo para o mundo digital.
 
-*   🌍 Baseado em **Brasília, DF**.
-*   💻 Projetos e portfólio em: **[joelton.com.br](https://joelton.com.br)**.
-*   ⚡ Especialista em ecossistemas modernos (React, Node, Cloud).
+📍 **Brasília, DF** | 💻 **Desenvolvimento Web & Design**
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-Aqui as imagens são carregadas de um serviço ultra-estável (Skill Icons):
+### 🛠️ Minha Stack Tecnológica
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" /> |
+
+---
+
+### 📂 No que estou trabalhando?
+
+- 🌐 Evoluindo o ecossistema do **[joelton.com.br](https://joelton.com.br)**.
+- 📱 Criando interfaces focadas na experiência do usuário (UX).
+- ⚙️ Automatizando processos com Node.js e integrações de API.
+
+---
+
+### 📫 Vamos conversar?
+
+Sinta-se à vontade para entrar em contato para parcerias, projetos ou apenas para trocar uma ideia sobre tecnologia!
+
+| **Email** | **Social** | **Portfólio** |
+| :--- | :--- | :--- |
+| [contato@joelton.com.br](mailto:contato@joelton.com.br) | [@joeltondf](https://www.instagram.com/joeltondf/) | [joelton.com.br](https://joelton.com.br) |
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,mongodb,mysql,git,docker,aws,figma&perline=6" />
+  <i>"O código é a arte de transformar lógica em realidade."</i>
 </p>
 
----
-
-### 📈 Atividade no GitHub
-*Como o gerador de cards está instável para você, esta é a melhor forma de mostrar seu trabalho sem erros:*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeltondf&show_icons=true&theme=radical&hide_border=false" alt="Status Joelton" />
-</div>
-
-<br>
-
-> **Nota:** Se a imagem acima não carregar, é um problema temporário nos servidores do Vercel. O restante do seu perfil continuará lindo e funcional!
-
----
-
-<div align="center">
-  <sub>Visite meu site oficial: <a href="https://joelton.com.br">joelton.com.br</a></sub>
 </div>
