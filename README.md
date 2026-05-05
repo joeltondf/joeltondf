@@ -1,7 +1,7 @@
 # Olá, eu sou o Joelton! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joeltondf&show_icons=true&theme=radical" alt="Status do GitHub" />
 </div>
 
 ### 🚀 Sobre Mim
