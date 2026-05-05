@@ -28,7 +28,7 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 
 ### 📊 Estatísticas e Linguagens
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeltondf&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
